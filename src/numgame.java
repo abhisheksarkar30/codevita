@@ -1,5 +1,3 @@
-package codevita;
-
 import java.util.*;
 public class numgame {
     public static void main(String args[])
