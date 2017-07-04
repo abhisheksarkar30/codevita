@@ -1,5 +1,3 @@
-package codevita;
-
 import java.util.Scanner;
 public class max_sub_array {
     public static void main(String args[])
