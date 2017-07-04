@@ -1,5 +1,3 @@
-package codevita;
-
 import java.util.*;
 public class saving {
 public static void main(String args[])
