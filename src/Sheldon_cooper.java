@@ -1,5 +1,3 @@
-package codevita;
-
 import java.util.Scanner;
 import java.util.Stack;
 public class Sheldon_cooper
