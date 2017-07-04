@@ -1,5 +1,3 @@
-package codevita;
-
 import java.util.*;
 public class binary
 {
