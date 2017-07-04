@@ -1,5 +1,3 @@
-package codevita;
-
 import java.io.*;
 import java.util.*;
 public class continento {
