@@ -1,5 +1,3 @@
-package codevita;
-
 import java.util.Scanner;
 public class catsdogs {
 
