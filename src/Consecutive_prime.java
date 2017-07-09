@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class PrimeSum {
+public class Consecutive_prime {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
