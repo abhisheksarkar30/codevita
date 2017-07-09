@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class PrimeChk {
+public class double_add {
     public static boolean isPrime(int num) {
         int to = (int) Math.sqrt(num) + 1;
         if(num==2)
