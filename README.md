@@ -1,2 +1,2 @@
 # codevita
-Solutions to the codes of the contest
+Solutions to the Problem Statements of the contest
